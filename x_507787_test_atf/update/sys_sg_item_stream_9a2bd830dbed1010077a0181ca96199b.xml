@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Test_ATF Service Registry Query">d62bd830dbed1010077a0181ca961998</data_item>
+        <interleaved_field/>
+        <name>Service Registry Query Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 06:37:54</sys_created_on>
+        <sys_id>9a2bd830dbed1010077a0181ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Registry Query Item Stream</sys_name>
+        <sys_package display_value="Test_ATF" source="x_507787_test_atf">382418f0dba91010077a0181ca961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_ATF">382418f0dba91010077a0181ca961991</sys_scope>
+        <sys_update_name>sys_sg_item_stream_9a2bd830dbed1010077a0181ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 06:37:54</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

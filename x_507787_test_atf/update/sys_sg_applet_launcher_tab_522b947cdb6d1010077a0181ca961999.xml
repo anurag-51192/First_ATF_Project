@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Test_ATF">1a2b947cdb6d1010077a0181ca961998</applet_launcher>
+        <icon display_value="Home Test_ATF">922b947cdb6d1010077a0181ca961999</icon>
+        <label>Test_ATF</label>
+        <roles>admin,source_control</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 06:37:53</sys_created_on>
+        <sys_id>522b947cdb6d1010077a0181ca961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_ATF</sys_name>
+        <sys_package display_value="Test_ATF" source="x_507787_test_atf">382418f0dba91010077a0181ca961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_ATF">382418f0dba91010077a0181ca961991</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_522b947cdb6d1010077a0181ca961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 06:37:53</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
