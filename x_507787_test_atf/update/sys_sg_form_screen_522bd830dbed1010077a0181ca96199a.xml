@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">de2b947cdb6d1010077a0181ca961997</icon>
+        <item_view display_value="Service Registry Query Detail Screen Item View">d62bd830dbed1010077a0181ca961999</item_view>
+        <name>Service Registry Query Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 06:37:54</sys_created_on>
+        <sys_id>522bd830dbed1010077a0181ca96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Registry Query Form Screen</sys_name>
+        <sys_package display_value="Test_ATF" source="x_507787_test_atf">382418f0dba91010077a0181ca961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_ATF">382418f0dba91010077a0181ca961991</sys_scope>
+        <sys_update_name>sys_sg_form_screen_522bd830dbed1010077a0181ca96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 06:37:54</sys_updated_on>
+        <table>service_reg_query</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=522bd830dbed1010077a0181ca96199a"/>
+</record_update>

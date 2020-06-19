@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">d44ad074dbad1010077a0181ca961980</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">15415f6bc913d31534330f91530c944c</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">ec4ad074dbad1010077a0181ca961985</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 06:33:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c4ad074dbad1010077a0181ca961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test_ATF" source="x_507787_test_atf">382418f0dba91010077a0181ca961991</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Test_ATF">382418f0dba91010077a0181ca961991</sys_scope>
+        <sys_update_name>sys_aw_module_9c4ad074dbad1010077a0181ca961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 06:33:57</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">d04ad074dbad1010077a0181ca961978</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="Test_ATF">d33a1074dbad1010077a0181ca96191f</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=9c4ad074dbad1010077a0181ca961977"/>
+</record_update>
